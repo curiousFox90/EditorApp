@@ -1,0 +1,2 @@
+# EditorApp
+LWC Training App
